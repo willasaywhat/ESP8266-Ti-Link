@@ -1,3 +1,5 @@
+# This is a work in progress, and I haven't been able to verify it works.
+
 # ESP8266-Ti-Link
 ESP8266-Ti-Link is an open-source project that lets a Texas Instruments graphing calculator talk to a PC through a Wemos D1 Mini (ESP8266), which acts as a link cable.
 
